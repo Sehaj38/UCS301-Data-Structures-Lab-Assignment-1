@@ -2,7 +2,6 @@
 using namespace std;
 
 const int MAX = 50;
-
 void CREATE(int arr[], int &size) {
     if (size <= 0 || size > MAX) {
         cout << "Invalid size\n";
