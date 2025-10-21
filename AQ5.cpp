@@ -7,7 +7,6 @@ int main() {
     cin >> rows;
     cout << "Enter number of columns: ";
     cin >> cols;
-
     int matrix[50][50];
 
     cout << "Enter elements of the matrix:\n";

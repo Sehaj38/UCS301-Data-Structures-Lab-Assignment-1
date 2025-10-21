@@ -9,7 +9,6 @@ void CREATE(int arr[], int &size) {
     }
     cout << "Array Created Successfully\n";
 }
-
 void DISPLAY(int arr[], int size) {
     if (size == 0) {
         cout << "Array is empty\n";
